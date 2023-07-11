@@ -1,0 +1,2244 @@
+fileFormatVersion: 2
+guid: 13182546eaf924c448156f237851aece
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3096079531659846493
+    second: F1RaceSheet1_0
+  - first:
+      213: 7075002185889886100
+    second: F1RaceSheet1_1
+  - first:
+      213: -1835747459746361950
+    second: F1RaceSheet1_2
+  - first:
+      213: -3268185299781857247
+    second: F1RaceSheet1_3
+  - first:
+      213: -8794445618500767528
+    second: F1RaceSheet1_4
+  - first:
+      213: -6475569523304540775
+    second: F1RaceSheet1_5
+  - first:
+      213: -3141770395869544864
+    second: F1RaceSheet1_6
+  - first:
+      213: -2452106121330578822
+    second: F1RaceSheet1_7
+  - first:
+      213: 3087019456778103217
+    second: F1RaceSheet1_8
+  - first:
+      213: -5354926692600832577
+    second: F1RaceSheet1_9
+  - first:
+      213: -8376881578964478960
+    second: F1RaceSheet1_10
+  - first:
+      213: -810794760542662645
+    second: F1RaceSheet1_11
+  - first:
+      213: -2443579732725371303
+    second: F1RaceSheet1_12
+  - first:
+      213: -4846116919844504265
+    second: F1RaceSheet1_13
+  - first:
+      213: -1154711120023552300
+    second: F1RaceSheet1_14
+  - first:
+      213: 1005019178762558388
+    second: F1RaceSheet1_15
+  - first:
+      213: 7619065031352284195
+    second: F1RaceSheet1_16
+  - first:
+      213: 2108357462872689453
+    second: F1RaceSheet1_17
+  - first:
+      213: -7673455550399097436
+    second: F1RaceSheet1_18
+  - first:
+      213: -7271608959492313766
+    second: F1RaceSheet1_19
+  - first:
+      213: -8560175563183771175
+    second: F1RaceSheet1_20
+  - first:
+      213: -7548690335083666811
+    second: F1RaceSheet1_21
+  - first:
+      213: 3773262808311286207
+    second: F1RaceSheet1_22
+  - first:
+      213: -8978475974539192162
+    second: F1RaceSheet1_23
+  - first:
+      213: -4296273372610221047
+    second: F1RaceSheet1_24
+  - first:
+      213: 2244861377769552025
+    second: F1RaceSheet1_25
+  - first:
+      213: 3595689934305260975
+    second: F1RaceSheet1_26
+  - first:
+      213: -7437560580116883846
+    second: F1RaceSheet1_27
+  - first:
+      213: -5183426436056379950
+    second: F1RaceSheet1_28
+  - first:
+      213: -9118986036703025285
+    second: F1RaceSheet1_29
+  - first:
+      213: -4309227650229671342
+    second: F1RaceSheet1_30
+  - first:
+      213: -960112533337436844
+    second: F1RaceSheet1_31
+  - first:
+      213: 8025211908983829488
+    second: F1RaceSheet1_32
+  - first:
+      213: 7161751826749092034
+    second: F1RaceSheet1_33
+  - first:
+      213: -7227647231550479873
+    second: F1RaceSheet1_34
+  - first:
+      213: 8791086798346526242
+    second: F1RaceSheet1_35
+  - first:
+      213: -895200650769513343
+    second: F1RaceSheet1_36
+  - first:
+      213: 8148681955811251796
+    second: F1RaceSheet1_37
+  - first:
+      213: 2547257294606733072
+    second: F1RaceSheet1_38
+  - first:
+      213: 2275677344824086898
+    second: F1RaceSheet1_39
+  - first:
+      213: -7579513581866521401
+    second: F1RaceSheet1_40
+  - first:
+      213: 1928210148872862401
+    second: F1RaceSheet1_41
+  - first:
+      213: 2045169892716824002
+    second: F1RaceSheet1_42
+  - first:
+      213: 6002239028052917676
+    second: F1RaceSheet1_43
+  - first:
+      213: -6082861287099095163
+    second: F1RaceSheet1_44
+  - first:
+      213: 2663814652087456780
+    second: F1RaceSheet1_45
+  - first:
+      213: 5246161316106904436
+    second: F1RaceSheet1_46
+  - first:
+      213: 3757445440656161871
+    second: F1RaceSheet1_47
+  - first:
+      213: 953013454849921149
+    second: F1RaceSheet1_48
+  - first:
+      213: 4368578704910548256
+    second: F1RaceSheet1_49
+  - first:
+      213: -9120568428098357188
+    second: F1RaceSheet1_50
+  - first:
+      213: 916760788127387343
+    second: F1RaceSheet1_51
+  - first:
+      213: -3529581071733640587
+    second: F1RaceSheet1_52
+  - first:
+      213: 6711280664322825223
+    second: F1RaceSheet1_53
+  - first:
+      213: -1110661840422490874
+    second: F1RaceSheet1_54
+  - first:
+      213: -6889597376902409915
+    second: F1RaceSheet1_55
+  - first:
+      213: 3793876305323181855
+    second: F1RaceSheet1_56
+  - first:
+      213: -3556409235419837213
+    second: F1RaceSheet1_57
+  - first:
+      213: -1044774706538906169
+    second: F1RaceSheet1_58
+  - first:
+      213: -1723923954404384831
+    second: F1RaceSheet1_59
+  - first:
+      213: 3460489520225140393
+    second: F1RaceSheet1_60
+  - first:
+      213: 1165813527365370237
+    second: F1RaceSheet1_61
+  - first:
+      213: -5316458129036108367
+    second: F1RaceSheet1_62
+  - first:
+      213: -2893976833332840797
+    second: F1RaceSheet1_63
+  - first:
+      213: 1795449122773025765
+    second: F1RaceSheet1_64
+  - first:
+      213: 7612115261232494680
+    second: F1RaceSheet1_65
+  - first:
+      213: -2705137994109298342
+    second: F1RaceSheet1_66
+  - first:
+      213: -5907480110753261480
+    second: F1RaceSheet1_67
+  - first:
+      213: 6808005601577647097
+    second: F1RaceSheet1_68
+  - first:
+      213: -8293290704166574031
+    second: F1RaceSheet1_69
+  - first:
+      213: 249176517222836879
+    second: F1RaceSheet1_70
+  - first:
+      213: 6333752441532625604
+    second: F1RaceSheet1_71
+  - first:
+      213: 475812980509108531
+    second: F1RaceSheet1_72
+  - first:
+      213: 1817798222468621160
+    second: F1RaceSheet1_73
+  - first:
+      213: -4332794322348274229
+    second: F1RaceSheet1_74
+  - first:
+      213: -8545060908500658189
+    second: F1RaceSheet1_75
+  - first:
+      213: 7751024522539845161
+    second: F1RaceSheet1_76
+  - first:
+      213: 7776135058331790044
+    second: F1RaceSheet1_77
+  - first:
+      213: -6259367350190966972
+    second: F1RaceSheet1_78
+  - first:
+      213: 5838907611519435226
+    second: F1RaceSheet1_79
+  - first:
+      213: 943637448850195844
+    second: F1RaceSheet1_80
+  - first:
+      213: -1183853592073179324
+    second: F1RaceSheet1_81
+  - first:
+      213: -3950344924836943448
+    second: F1RaceSheet1_82
+  - first:
+      213: 3944524121244629338
+    second: F1RaceSheet1_83
+  - first:
+      213: 2914941596497579197
+    second: F1RaceSheet1_84
+  - first:
+      213: -3265255292415002453
+    second: F1RaceSheet1_85
+  - first:
+      213: 3841052770869337852
+    second: F1RaceSheet1_86
+  - first:
+      213: 1031828523320800860
+    second: F1RaceSheet1_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: F1RaceSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 400
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5361f82eeb77fa20800000000000000
+      internalID: 3096079531659846493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 400
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f241bc0057f2260800000000000000
+      internalID: 7075002185889886100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 400
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad0e7c596d1686e0800000000000000
+      internalID: -1835747459746361950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 400
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120595219c215a2d0800000000000000
+      internalID: -3268185299781857247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 400
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d075c01e4ad3f580800000000000000
+      internalID: -8794445618500767528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 400
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995561dd3d72226a0800000000000000
+      internalID: -6475569523304540775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 400
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e7b5488703664d0800000000000000
+      internalID: -3141770395869544864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 400
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aa786797e58fdd0800000000000000
+      internalID: -2452106121330578822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 366
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b96af717db47da20800000000000000
+      internalID: 3087019456778103217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 366
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd15417b8a7fa5b0800000000000000
+      internalID: -5354926692600832577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 366
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0141f4826965fbb80800000000000000
+      internalID: -8376881578964478960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 366
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005b18067a7fb4f0800000000000000
+      internalID: -810794760542662645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 366
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e6f820e29a61ed0800000000000000
+      internalID: -2443579732725371303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 366
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d78a456522fbcb0800000000000000
+      internalID: -4846116919844504265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 366
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de7dc0ba54a9ffe0800000000000000
+      internalID: -1154711120023552300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 366
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbd8964e9b82fd00800000000000000
+      internalID: 1005019178762558388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 334
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3247a5a474b5cb960800000000000000
+      internalID: 7619065031352284195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 334
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b021221f3624d10800000000000000
+      internalID: 2108357462872689453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 334
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a556b625d8628590800000000000000
+      internalID: -7673455550399097436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 334
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da9ef8d2e061b90800000000000000
+      internalID: -7271608959492313766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 334
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b375dda5243980800000000000000
+      internalID: -8560175563183771175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 334
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e9e9822aad3790800000000000000
+      internalID: -7548690335083666811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 334
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9469558825d5430800000000000000
+      internalID: 3773262808311286207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 334
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985631dbab066380800000000000000
+      internalID: -8978475974539192162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 305
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c299751229064c0800000000000000
+      internalID: -4296273372610221047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 305
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998b2ff7789572f10800000000000000
+      internalID: 2244861377769552025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 273
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa576b8c1f476e130800000000000000
+      internalID: 3595689934305260975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 273
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a765faaee0a78c890800000000000000
+      internalID: -7437560580116883846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 273
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd8d7f8e15c018b0800000000000000
+      internalID: -5183426436056379950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 273
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77a19a938ad27180800000000000000
+      internalID: -9118986036703025285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 273
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae4cb884c8234c0800000000000000
+      internalID: -4309227650229671342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 273
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d8502ecbefca2f0800000000000000
+      internalID: -960112533337436844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 273
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3373a36b74f5f60800000000000000
+      internalID: 8025211908983829488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 273
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c072e28757a36360800000000000000
+      internalID: 7161751826749092034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 239
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff12999f22d32bb90800000000000000
+      internalID: -7227647231550479873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 239
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e121dadd6300a70800000000000000
+      internalID: 8791086798346526242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 239
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1844f2840cb9393f0800000000000000
+      internalID: -895200650769513343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 239
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d3c3b01fe51170800000000000000
+      internalID: 8148681955811251796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 239
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f8e84730da95320800000000000000
+      internalID: 2547257294606733072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 239
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271d4a1fc74d49f10800000000000000
+      internalID: 2275677344824086898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_40
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 239
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce8962e8820d690800000000000000
+      internalID: -7579513581866521401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_41
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 239
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cabedf0ae062ca10800000000000000
+      internalID: 1928210148872862401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 207
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5c5b08e27e16c10800000000000000
+      internalID: 2045169892716824002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 207
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad7414489c3c4350800000000000000
+      internalID: 6002239028052917676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 207
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587ab7443e5559ba0800000000000000
+      internalID: -6082861287099095163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 207
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0457250055c7f420800000000000000
+      internalID: 2663814652087456780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 207
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473a2f0fbeb1ec840800000000000000
+      internalID: 5246161316106904436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 207
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cb83178b0252430800000000000000
+      internalID: 3757445440656161871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_48
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 207
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705f7a10b8c93d00800000000000000
+      internalID: 953013454849921149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 207
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d7787bf2f40ac30800000000000000
+      internalID: 4368578704910548256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 178
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38fd85665b3d6180800000000000000
+      internalID: -9120568428098357188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 178
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce0750641df8bc00800000000000000
+      internalID: 916760788127387343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 150
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572bf5d37b8640fc0800000000000000
+      internalID: -3529581071733640587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_53
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 150
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cd8e0d432432d50800000000000000
+      internalID: 6711280664322825223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 150
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2900d0f22690f0800000000000000
+      internalID: -1110661840422490874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 150
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541d44830bb3360a0800000000000000
+      internalID: -6889597376902409915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 150
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f174f8c166e86a430800000000000000
+      internalID: 3793876305323181855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 150
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecc1ee94a815aec0800000000000000
+      internalID: -3556409235419837213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_58
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 150
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd7f6a90f63081f0800000000000000
+      internalID: -1044774706538906169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 150
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf90f51c446318e0800000000000000
+      internalID: -1723923954404384831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 116
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae3bf952e0260030800000000000000
+      internalID: 3460489520225140393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 116
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7145f4f93dcd2010800000000000000
+      internalID: 1165813527365370237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 116
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd909bdf752836b0800000000000000
+      internalID: -5316458129036108367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_63
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 116
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a67cfc276786d7d0800000000000000
+      internalID: -2893976833332840797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 116
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e34c27e677bae810800000000000000
+      internalID: 1795449122773025765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 116
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b717df7aa3a960800000000000000
+      internalID: 7612115261232494680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_66
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 116
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59d3b8a35b657ad0800000000000000
+      internalID: -2705137994109298342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_67
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 116
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858ddd0732a640ea0800000000000000
+      internalID: -5907480110753261480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbb7e63605ea7e50800000000000000
+      internalID: 6808005601577647097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_69
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 84
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1382a175b0058ec80800000000000000
+      internalID: -8293290704166574031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 84
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aaf63e8b0457300800000000000000
+      internalID: 249176517222836879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 84
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2b0d4b94206e750800000000000000
+      internalID: 6333752441532625604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 84
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e3c2826d6a9600800000000000000
+      internalID: 475812980509108531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_73
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 84
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863249b2add1a3910800000000000000
+      internalID: 1817798222468621160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_74
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 84
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd0a9b1582ded3c0800000000000000
+      internalID: -4332794322348274229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_75
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 84
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7ddbc9068d96980800000000000000
+      internalID: -8545060908500658189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 55
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926445f8cbb219b60800000000000000
+      internalID: 7751024522539845161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 55
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdae355c2a16aeb60800000000000000
+      internalID: 7776135058331790044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447703dfe824229a0800000000000000
+      internalID: -6259367350190966972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_79
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1c0fc6987f70150800000000000000
+      internalID: 5838907611519435226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_80
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485c8779249781d00800000000000000
+      internalID: 943637448850195844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_81
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 5
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f686a2e6b129fe0800000000000000
+      internalID: -1183853592073179324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_82
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a3de783e8d29c0800000000000000
+      internalID: -3950344924836943448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_83
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 5
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59febe0ac3cdb630800000000000000
+      internalID: 3944524121244629338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_84
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 5
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8f3020f3f37820800000000000000
+      internalID: 2914941596497579197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_85
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 5
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b3a29c9b7fa2d0800000000000000
+      internalID: -3265255292415002453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe5233f4292e4530800000000000000
+      internalID: 3841052770869337852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1RaceSheet1_87
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 5
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f6a9339ac15e00800000000000000
+      internalID: 1031828523320800860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
